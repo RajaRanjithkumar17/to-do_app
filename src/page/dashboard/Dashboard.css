@@ -1,0 +1,46 @@
+.dashboard {
+  height: calc(100vh - 140px);
+  padding-top: 32px;
+}
+.todo {
+  color: #ef7103;
+}
+.inprogress {
+  color: #efbf03;
+}
+.done {
+  color: #2ba241;
+}
+
+.ant-table-wrapper {
+  height: calc(100% - 50px);
+}
+.ant-table-content {
+  height: calc(100vh - 230px);
+  overflow: scroll;
+}
+.ant-table-thead {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  z-index: 999;
+}
+
+.description{
+  max-width: 30ch;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
+.search-input{
+  width: 230px;
+}
+.add-task{
+  width: 100px;
+  font-weight: 600;
+}
+.ant-table-filter-dropdown-btns button{
+  width: auto;
+  height: auto;
+}

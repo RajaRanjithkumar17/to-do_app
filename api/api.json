@@ -1,0 +1,152 @@
+{
+  "todo": [
+    {
+      "id": "2",
+      "title": "Learn JavaScript",
+      "status": "inProgress",
+      "dueDate": "2020-12-18",
+      "description": "Learn JavaScript basics Learn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basicsLearn JavaScript basics",
+      "assignedUser": "Jean Doe",
+      "priority": "low",
+      "tags": [
+        "tag1",
+        "tag3"
+      ]
+    },
+    {
+      "id": "8c99",
+      "title": "tests",
+      "status": "done",
+      "dueDate": "2025-01-01",
+      "description": "ss",
+      "assignedUser": "2",
+      "priority": "high",
+      "tags": [
+        "tag1",
+        "tag2"
+      ]
+    },
+    {
+      "id": "bb17",
+      "title": "ss",
+      "status": "inprogress",
+      "dueDate": "2025-01-01",
+      "description": "s",
+      "assignedUser": "2",
+      "priority": "high",
+      "tags": [
+        "tag1",
+        "tag2"
+      ]
+    },
+    {
+      "id": "f20d",
+      "title": "s",
+      "status": "todo",
+      "dueDate": "2025-01-03",
+      "description": "s",
+      "assignedUser": "2",
+      "priority": "",
+      "tags": []
+    },
+    {
+      "id": "0c98",
+      "title": "dd",
+      "status": "inprogress",
+      "dueDate": "2025-01-01",
+      "description": "d",
+      "assignedUser": "3",
+      "priority": "",
+      "tags": []
+    },
+    {
+      "id": "8a26",
+      "title": "ddc",
+      "status": "done",
+      "dueDate": "2025-01-08",
+      "description": "ss",
+      "assignedUser": "3",
+      "priority": "",
+      "tags": [
+        "tag2"
+      ]
+    },
+    {
+      "id": "307e",
+      "title": "asdc",
+      "status": "todo",
+      "dueDate": "2025-01-08",
+      "description": "sdc",
+      "assignedUser": "2",
+      "priority": "low",
+      "tags": [
+        "tag1"
+      ]
+    },
+    {
+      "id": "8b17",
+      "title": "sdas",
+      "status": "inprogress",
+      "dueDate": "2025-01-01",
+      "description": "asdasd",
+      "assignedUser": "Jean Doe",
+      "priority": "high",
+      "tags": [
+        "tag2"
+      ]
+    },
+    {
+      "id": "5d7c",
+      "title": "test",
+      "status": "todo",
+      "dueDate": "2025-01-01",
+      "description": "s",
+      "assignedUser": "Jean Doe",
+      "priority": "low",
+      "tags": [
+        "tag1"
+      ]
+    },
+    {
+      "id": "7b5f",
+      "title": "sqdxsa",
+      "status": "todo",
+      "dueDate": "2025-01-01",
+      "description": "sa",
+      "assignedUser": "Jean Doe",
+      "priority": null,
+      "tags": []
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jean Doe",
+      "email": "jean@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Bean Doe",
+      "email": "bean@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Dean Doe",
+      "email": "dean@example.com"
+    },
+    {
+      "id": "427d",
+      "name": "Dean Doe",
+      "email": "dean@example.com"
+    }
+  ],
+  "auth": {
+    "username": "admin",
+    "password": "123"
+  }
+}
