@@ -194,7 +194,6 @@ const Dashboard = () => {
   };
   return (
     <div className="full-width-container">
-      {loader && <Loader/>}
       <div className="dashboard">
         <div className="flex w-full justify-between items-center mb-5">
           <p className="page-title font-Inter w-1/2 p-0">Todo List</p>
